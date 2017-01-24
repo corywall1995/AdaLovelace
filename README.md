@@ -4,7 +4,7 @@ Ada Lovelace
 
 Three interesting things about Ada Lovelace:
 
-  *She is often called the "first programmer" because she is credited with writing the very first algorithm.
+  *She is often called the "first programmer" because she is credited with writing the very first algorithm which was to be used on Charles Babbage's Analytical Engine.
   
   *When she was only 12 she drew up plans for a "flying machine" after studying the anatomy of birds.
   
